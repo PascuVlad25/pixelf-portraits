@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pixelf-portraits/static/css/main.daee651c.css",
+    "main.js": "/pixelf-portraits/static/js/main.b7bb8e0b.js",
+    "static/js/787.52e514d2.chunk.js": "/pixelf-portraits/static/js/787.52e514d2.chunk.js",
+    "static/media/cover.mp4": "/pixelf-portraits/static/media/cover.228194f6ae2167500879.mp4",
+    "index.html": "/pixelf-portraits/index.html",
+    "main.daee651c.css.map": "/pixelf-portraits/static/css/main.daee651c.css.map",
+    "main.b7bb8e0b.js.map": "/pixelf-portraits/static/js/main.b7bb8e0b.js.map",
+    "787.52e514d2.chunk.js.map": "/pixelf-portraits/static/js/787.52e514d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daee651c.css",
+    "static/js/main.b7bb8e0b.js"
+  ]
+}
