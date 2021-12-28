@@ -4,7 +4,7 @@ import video from './assets/cover.mp4';
 export default function Hero() {
     return (
         <div className="hero-background">
-        <video className="hero-video" poster="./assets/cover.png" playsInline preload autoPlay muted loop>
+        <video className="hero-video" playsInline autoPlay muted loop>
             <source src={video} type="video/mp4" />
         </video>
 
